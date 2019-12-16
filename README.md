@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br /><br />
 Setting up the React project<br />
 Fetching data<br />
 Updating your state<br />
