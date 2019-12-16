@@ -11,7 +11,8 @@
     "react-scripts": "3.3.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "strict-ssl": false,
+    "registry": "https://npm.pkg.github.com/edineu"
   },
   "scripts": {
     "start": "react-scripts start",
