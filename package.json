@@ -1,7 +1,7 @@
 {
-  "name": "portal",
-  "version": "0.1.0",
-  "private": true,
+  "name": "portal-api",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -9,6 +9,9 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +33,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Test fase for api fetch",
+  "main": "index.js",
+  "repository": "git@github.com:edineu/portal-api.git",
+  "author": "Ed Hansen",
+  "license": "MIT"
 }
