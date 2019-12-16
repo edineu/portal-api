@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Setting up the React project
-Fetching data
-Updating your state
-Using the axios library to make HTTP requests
+Setting up the React project<br />
+Fetching data<br />
+Updating your state<br />
+Using the axios library to make HTTP requests<br />
 
 ## Available Scripts
 
